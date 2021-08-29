@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unidaddegastroenterologia/static/css/main.a617e044.chunk.css",
+    "main.js": "/unidaddegastroenterologia/static/js/main.e29d775a.chunk.js",
+    "main.js.map": "/unidaddegastroenterologia/static/js/main.e29d775a.chunk.js.map",
+    "runtime-main.js": "/unidaddegastroenterologia/static/js/runtime-main.0c959877.js",
+    "runtime-main.js.map": "/unidaddegastroenterologia/static/js/runtime-main.0c959877.js.map",
+    "static/js/2.0da84cde.chunk.js": "/unidaddegastroenterologia/static/js/2.0da84cde.chunk.js",
+    "static/js/2.0da84cde.chunk.js.map": "/unidaddegastroenterologia/static/js/2.0da84cde.chunk.js.map",
+    "static/js/3.d4af36da.chunk.js": "/unidaddegastroenterologia/static/js/3.d4af36da.chunk.js",
+    "static/js/3.d4af36da.chunk.js.map": "/unidaddegastroenterologia/static/js/3.d4af36da.chunk.js.map",
+    "index.html": "/unidaddegastroenterologia/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/unidaddegastroenterologia/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0da84cde.chunk.js.LICENSE.txt": "/unidaddegastroenterologia/static/js/2.0da84cde.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/unidaddegastroenterologia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c959877.js",
+    "static/js/2.0da84cde.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e29d775a.chunk.js"
+  ]
+}
